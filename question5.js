@@ -1,7 +1,6 @@
 // This file sets up a Node.js application using Express and Sequelize to connect to a MySQL database.
 // It defines a Sequelize model for the users table with fields id, name, email, and status.
 // The /users route fetches and returns all users from the database.
-// This approach demonstrates how to use an ORM (Sequelize) for database operations in Node.js.
 // Make sure to update the database credentials before running the server.
 
 const express = require('express');
