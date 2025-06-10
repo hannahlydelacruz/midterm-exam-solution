@@ -1,0 +1,17 @@
+{
+  "name": "midterm-exam-solution",
+  "version": "1.0.0",
+  "description": "Midterm exam solution for JavaScript and Node.js concepts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node question3.js",
+    "dev": "nodemon question3.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.6.5"
+  },
+  "author": "Your Full Name",
+  "license": "ISC"
+}

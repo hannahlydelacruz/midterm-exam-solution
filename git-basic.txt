@@ -1,1 +1,5 @@
-Write your full name
+// This file is used to demonstrate basic Git and GitHub operations for the midterm exam.
+// It contains my full name as required by the instructions.
+// The file was created, added, committed, and pushed to the GitHub repository as part of the exam steps.
+// Answer: This file contains my full name as required for the Git and GitHub basics question. It was added, committed, and pushed to GitHub as part of the initial repository setup.
+Hannahly Dela Cruz
